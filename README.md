@@ -57,3 +57,5 @@ Now you can build the presentation and publish it to GitHub Pages using:
 The files in the [.path]_dist_ directory end up in the `gh-pages` branch in the repository on GitHub.
 From there, they can be viewed in a browser from anywhere on the web.
 
+
+# Nama Kelompok
