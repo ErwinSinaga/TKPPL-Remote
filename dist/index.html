@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <title>presentasi yale conexis</title>
+  <link rel="stylesheet" type="text/css" href="build/build.css">
+</head>
+<style>
+  .image-slider1 {
+    top: 2em;
+    left: 0;
+    position: absolute;
+    margin-left: 100px;
+  }
+
+  .image-slider2 {
+    top: 2em;
+    left: 10em;
+    position: absolute;
+    margin-left: 100px;
+  }
+
+  .image-slider3 {
+    top: 2em;
+    left: 20em;
+    position: absolute;
+    margin-left: 100px;
+  }
+
+</style>
+
+<body>
+  <link rel="stylesheet" type="text/css" href="styles/style.css">
+  <article class="deck">
+
+    <section>
+      <h1>Yale Conexis <sup>TM<sup> l1 SmartDoor Lock</h1>
+      <ul>
+        <h1>Nama Kelompok :</h1>
+        <li>Erwin Leo Sinaga</li>
+        <li>Tia Sarwoedhi</li>
+        <li>Owen Brendsan Damanik</li>
+        <li>Merry Sartika Simamora</li>
+
+      </ul>
+    </section>
+
+    <section>
+      <h2>Gambar</h2>
+      <img src="images/Yale.jpg">
+    </section>
+
+    <section>
+      <h1>Deskripsi</h1>
+      <p>Kita tahu kalau Yale adalah sebuah perusahaan kunci ternama.
+        Sekarang Yale sudah memiliki kunci pintar bernama Yale Conexis™ L1 Smart Door Lock.
+        Dengan kunci pintar ini, kita bisa mengunci dan membuka pintu dengan handphone.
+        Hal lain yang menarik adalah kita bisa mengirim mobile key pada orang tertentu. sehingga kita bisa tahu siapa
+        saja yang bisa keluar masuk rumah.Kunci ini juga dilengkapi aksesoris lain seperti key tag dan key card di
+        samping phone tag.</p>
+    </section>
+
+    <section>
+      <h2>Keyboard Interaction</h2>
+      <h3>Powered by <a href="https://github.com/bespokejs/bespoke-keys">bespoke-keys</a></h3>
+    </section>
+
+    <section>
+      <h2>Fitur Yale Conexis Smart Door Lock </h2>
+      <img class="image-slider1" src="images/yale-fiture1.PNG" alt="" height="100px" width="100px">
+      <img class="image-slider2" src="images/yale-fiture2.PNG" alt="" height="100px" width="100px">
+      <img class="image-slider3" src="images/yale-fiture3.PNG" alt="" height="100px" width="100px">
+
+      <ul class="build build-items">
+        <li>Smartphone Bisa Menjadi Kunci</li>
+        <li>Kirim Kunci Ponsel Ke Keluarga dan Teman </li>
+        <li>Menerima pemberitahuan siapa saja di dalam rumah </li>
+        <li>Multiple Lock</li>
+      </ul>
+
+    </section>
+
+    <section>
+      <h2>Responsive Slides</h2>
+      <h3>Powered by <a href="https://github.com/bespokejs/bespoke-scale">bespoke-scale</a></h3>
+    </section>
+
+    <section>
+      <h2>Bullet List</h2>
+      <h3>Powered by <a href="https://github.com/bespokejs/bespoke-bullets">bespoke-bullets</a></h3>
+      <ul class="build build-items">
+        <li>Bullet 1</li>
+        <li>Bullet 2</li>
+        <li>Bullet 3</li>
+      </ul>
+    </section>
+
+    <section>
+      <iframe width="640" height="360"
+        src="https://www.youtube.com/embed/AV3kYPutYfs?rel=0&amp;showinfo=0&amp;controls=0&amp;enablejsapi=1&amp;loop=1&amp;playlist=AV3kYPutYfs"
+        frameborder="0" allowfullscreen data-volume="0"></iframe>
+    </section>
+
+    <section>
+      <h2>Syntax Highlighting</h2>
+      <h3>Powered by <a href="https://twitter.com/LeaVerou">Lea Verou</a>'s <a
+          href="https://github.com/PrismJS/prism">Prism</a></h3>
+      <pre><code class="language-javascript">
+(function() {
+  function hanoi(n, a, b, c) {
+    return n ? hanoi(n - 1, a, c, b)
+        .concat([[a, b]])
+        .concat(hanoi(n - 1, c, b, a)) : [];
+  }
+  return hanoi(3, 'left', 'right', 'mid')
+    .map(function(d) {
+      return d[0] + ' -&gt; ' + d[1];
+    });
+})();</code></pre>
+    </section>
+
+    <section data-bespoke-hash="named-route">
+      <h2>Named Route</h2>
+      <h3>Powered by <a href="https://github.com/bespokejs/bespoke-hash">bespoke-hash</a></h3>
+      <p>Look up! This route has been named with a <em>data-bespoke-hash</em> attribute.</p>
+    </section>
+
+    <section>
+      <h2>Just the beginning…</h2><br>
+      <ul class="build build-items">
+        <li>Edit HTML markup in <em class="path">src/index.html</em></li>
+        <li>Edit <a href="http://stylus-lang.com">Stylus</a> styles in <em class="path">src/styles/user.styl</em></li>
+        <li>Edit JavaScript in <em class="path">src/scripts/main.js</em></li>
+      </ul>
+      <br>
+      <ul class="build">
+        <li><strong>Enjoy! :)</strong><a href="https://twitter.com/markdalgleish"> -@markdalgleish</a></li>
+      </ul>
+    </section>
+  </article>
+
+  <script src="build/build.js"></script>
+
+</body>
+
+</html>
