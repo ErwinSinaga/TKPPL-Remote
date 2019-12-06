@@ -8,6 +8,142 @@
   <link rel="stylesheet" type="text/css" href="build/build.css">
 </head>
 <style>
+  section {
+    padding: 10px;
+  }
+
+  p {
+    font-size: 10px;
+  }
+
+  .slide5 .judul {
+    text-align: center;
+  }
+
+  .slide5 h2 {
+    margin-top: -15em;
+  }
+
+  .slide6 h2 {
+    margin-top: -7em;
+  }
+
+  .slide6 {
+    background-image: url('images/pintu1.png');
+    background-position: center;
+    background-size: 200%;
+    text-align: center;
+  }
+
+  .slide6 {
+    color: white;
+  }
+
+  .slide6 .icon {
+    width: 70px;
+    height: 70px;
+    display: block;
+    margin: 0 auto;
+    background-image: url('images/iconslide6.png');
+  }
+
+  .slide6 .icon.icon2 {
+    background-position: -70px 0;
+  }
+
+  .slide6 .icon.icon3 {
+    background-position: -140px 0;
+  }
+
+  .slide6 .icon.icon4 {
+    background-position: -210px 0;
+  }
+
+  .imgslide5 {
+    width: 140px;
+    height: 140px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .contents5_2 .imgslide5,
+  .contents5_3 .imgslide5 {
+    margin-top: 50px;
+  }
+
+  .contents6_1,
+  .contents6_2,
+  .contents6_3,
+  .contents6_4 {
+    margin-top: 11em;
+  }
+
+  .contents6_1 h5,
+  .contents6_2 h5,
+  .contents6_3 h5,
+  .contents6_4 h5 {
+    color: #fc4b1e;
+  }
+
+  .img4 {
+    width: 320px;
+    height: 320px;
+    border-radius: 50%;
+  }
+
+  .img5 {
+    width: 250px;
+    height: 150px;
+    border-radius: 50%;
+  }
+
+  .contents5_1 {
+    position: absolute;
+    top: 5em;
+    left: 3.5em;
+    width: 140px;
+  }
+
+  .contents5_2 {
+    position: absolute;
+    top: 5em;
+    left: 15em;
+  }
+
+  .contents5_3 {
+    position: absolute;
+    top: 5em;
+    left: 28em;
+  }
+
+  .contents6_1 {
+    position: absolute;
+    top: 5em;
+    left: 4em;
+  }
+
+  .contents6_2 {
+    position: absolute;
+    top: 5em;
+    left: 12em;
+  }
+
+  .contents6_3 {
+    position: absolute;
+    top: 5em;
+    left: 21em;
+  }
+
+  .contents6_4 {
+    position: absolute;
+    top: 5em;
+    left: 31em;
+  }
+
+  body {
+    background-image: url('images/pintu.png');
+  }
 
 </style>
 
@@ -49,12 +185,6 @@
           <li>Tidak ada lagi kunci pemotongan untuk pengunjung</li>
         </ul>
 
-
-
-
-
-
-
     </section>
 
     <section>
@@ -65,40 +195,84 @@
 
     </section>
 
+    <section class="slide5">
+      <h2>Fitur</h2>
+      <ul class="build-items">
+
+        <div class="contents5_1">
+          <div>
+            <h3 class="judul">Gunakan Smartphone Sebagai Kunci</h3><img class="imgslide5" src="images/yale-fiture1.PNG">
+          </div>
+
+        </div>
+        </li>
+        <li style="list-style-type:none">
+          <div class="contents5_2">
+            <div>
+              <h3 class="judul">Multi Point Lock</h3><img class="imgslide5" src="images/yale-fiture2.PNG">
+            </div>
+
+          </div>
+        </li>
+        <li style="list-style-type:none">
+          <div class="contents5_3">
+            <div>
+              <h3 class="judul">Dapatkan Notifikasi </h3><img class="imgslide5" src="images/yale-fiture3.PNG">
+            </div>
+
+          </div>
+        </li>
+      </ul>
+    </section>
     <section>
-      <h2>Fitur Yale Conexis Smart Door Lock </h2>
+      <h2>Kelebihan dan Kekurangan</h2>
+
+      <h3>Pro:</h3>
       <ul>
-        <li>Smartphone Bisa Menjadi Kunci</li>
-        <li>Kirim Kunci Ponsel Ke Keluarga dan Teman Pilih untuk memberikan akses selama beberapa minggu atau jam </li>
-        <li>Menerima pemberitahuan yang memberitahukan orang yang Anda cintai di rumah dengan aman. Saat menggunakan
-          kunci ponsel, Anda dapa</li>
+        <li>Desain dan pembuatan premium</li>
+        <li>Lebih murah daripada Nuki</li>
+        <li>Banyak opsi membuka kunci</li>
+        <li> Modul untuk meningkatkan fungsionalitas</li>
+        <li> Berfungsi dengan baik bila diatur dengan benar</li>
+      </ul>
+
+
+      <h3>Contra</h3>
+      <ul>
+        <li>Pengaturan dapat menjadi rumit</li>
+        <li>Opsi cadangan baterai canggung</li>
+        <li>Tidak ada fallback ke kunci fisik</li>
+      </ul>
+
+
+
+    </section>
+
+    <section>
+      <h2>Section Baru</h2>
+    </section>
+
+
+    <section>
+      <h2>Responsive Slides</h2>
+      <h3>Powered by <a href="https://github.com/bespokejs/bespoke-scale">bespoke-scale</a></h3>
+    </section>
+
+    <section>
+      <h2>Bullet List</h2>
+      <h3>Powered by <a href="https://github.com/bespokejs/bespoke-bullets">bespoke-bullets</a></h3>
+      <ul class="build build-items">
+        <li>Bullet 1</li>
+        <li>Bullet 2</li>
+        <li>Bullet 3</li>
       </ul>
 
       <section>
-        <h2>Section Baru</h2>
-      </section>
-
-
-      <section>
-        <h2>Responsive Slides</h2>
-        <h3>Powered by <a href="https://github.com/bespokejs/bespoke-scale">bespoke-scale</a></h3>
-      </section>
-
-      <section>
-        <h2>Bullet List</h2>
-        <h3>Powered by <a href="https://github.com/bespokejs/bespoke-bullets">bespoke-bullets</a></h3>
-        <ul class="build build-items">
-          <li>Bullet 1</li>
-          <li>Bullet 2</li>
-          <li>Bullet 3</li>
-        </ul>
-
-      <section>
         <h3>Spesifikasi produk</h3>
-          <li>Panjang : 3.15 inci</li>
-          <li>Tinggi	: 11.02 inci</li>
-          <li>Lebar	  : 1.18 inci</li>
-          <li>Berat	  : 4.63 lb</li>
+        <li>Panjang : 3.15 inci</li>
+        <li>Tinggi : 11.02 inci</li>
+        <li>Lebar : 1.18 inci</li>
+        <li>Berat : 4.63 lb</li>
       </section>
 
       <section>
@@ -135,7 +309,8 @@
         <h2>Just the beginning…</h2><br>
         <ul class="build build-items">
           <li>Edit HTML markup in <em class="path">src/index.html</em></li>
-          <li>Edit <a href="http://stylus-lang.com">Stylus</a> styles in <em class="path">src/styles/user.styl</em></li>
+          <li>Edit <a href="http://stylus-lang.com">Stylus</a> styles in <em class="path">src/styles/user.styl</em>
+          </li>
           <li>Edit JavaScript in <em class="path">src/scripts/main.js</em></li>
         </ul>
         <br>
