@@ -1,0 +1,104 @@
+Scrum Master : .....
+29/11/2019
+Daily Scrum : 
+Erwin Leo Sinaga
+- Upload template ke github
+- Test Commit Pertama
+- Ganti Judul Presentasi
+-Tambah nama kelompok, ganti background, tambah slide fitur
+
+Merry Sartika : 
+- Ganti Judul dan Gambar
+
+Owen Brendsan Damanik: 
+-Buat Deskripsi
+
+Tya Sarwoedhi
+- 
+
+02/12/2019
+Daily Scrum: 
+- Erwin Leo Sinaga : 
+  Tidak bisa ngepush karna kerja
+
+- Tia Sarwoedhi : 
+
+- Owen Brendsan Damanik : 
+  Edit Nama Kelompok
+
+- Mery Sartika Simamora :
+  Tidak Push karna batre soak(digantikan 7 Desember)
+
+
+03/12/2019
+Daily Scrum : 
+- Erwin Leo Sinaga : 
+  Tambah perbandingan yale dengan produk lainnya
+   Perbaikan fitur dan tambah gambar pada fitur dan mengubah deskripsi
+   Edit Fitur
+
+- Tia Sarwoedhi 
+
+- Owen Brendsan Damanik : 
+   Perubahan
+
+- Mery Sartika Simamora 
+Tidak push karena batre soak (digantikan 8 Desember)
+Scrum Master : ...
+04/12/2019
+Daily Scrum : 
+- Erwin Leo Sinaga : 
+  Tidak bisa ngepush karna kerja
+
+- Tia Sarwoedhi 
+   Tambah spesifikasi
+
+- Owen Brendsan Damanik : 
+   
+- Mery Sartika Simamora 
+  Mengubah deskripsi 
+
+05/12/2019
+Daily Scrum : 
+- Erwin Leo Sinaga : 
+  Edit deskripsi
+
+- Tia Sarwoedhi 
+
+- Owen Brendsan Damanik
+  Spesifikasi Produk
+
+- Mery Sartika Simamora 
+  Buat section baru
+  Edit nama Anggota Tim
+
+06/12/2019
+Daily  Scrum 
+- Erwin Leo Sinaga : 
+  Tambah fitur , Edit tampilan deskripsi
+  Edit fitur dan tambah kelebihan dan kekurangan
+
+- Tia Sarwoedhi 
+   Tambah Fungsi
+
+- Owen Brendsan Damanik
+   Fitur Utama Aplikasi
+
+- Mery Sartika Simamora 
+  Edit Fitur
+
+07/12/2019
+Mery Sartika Simamora 
+penambahan video
+ubah background
+
+08/12/2019
+Mery Sartika Simamora 
+Ubah deskripsi
+Ubah gambar
+
+09/12/2019
+10/12/2019
+11/12/2019
+
+12/12/2019
