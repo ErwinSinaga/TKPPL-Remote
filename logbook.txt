@@ -1,4 +1,4 @@
-Scrum Master : .....
+Scrum Master : Erwin Leo Sinaga 
 29/11/2019
 Daily Scrum : 
 Erwin Leo Sinaga
@@ -44,7 +44,8 @@ Daily Scrum :
 
 - Mery Sartika Simamora 
 Tidak push karena batre soak (digantikan 8 Desember)
-Scrum Master : ...
+
+Scrum Master : Tia Sarwoedhi 
 04/12/2019
 Daily Scrum : 
 - Erwin Leo Sinaga : 
@@ -97,8 +98,21 @@ Mery Sartika Simamora
 Ubah deskripsi
 Ubah gambar
 
+Scrum Master : Mery Sartika Simamora 
 09/12/2019
+- Erwin Leo Sinaga
+  Tambah video dan edit tampilan slide
+
+- Tia Sarwoedhi 
+
+- Owen Brendsan Damanik
+  Video cara menginstal
+
+- Mery Sartika Simamora 
+  Create logbook.txt
+
 10/12/2019
+
 11/12/2019
 
 12/12/2019
