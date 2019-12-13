@@ -13,8 +13,8 @@ Merry Sartika :
 Owen Brendsan Damanik: 
 -Buat Deskripsi
 
-Tya Sarwoedhi
-- 
+Tia Sarwoedhi
+- Sakit
 
 02/12/2019
 Daily Scrum: 
@@ -22,6 +22,7 @@ Daily Scrum:
   Tidak bisa ngepush karna kerja
 
 - Tia Sarwoedhi : 
+  Kerja Full Time 
 
 - Owen Brendsan Damanik : 
   Edit Nama Kelompok
@@ -38,8 +39,9 @@ Daily Scrum :
    Edit Fitur
 
 - Tia Sarwoedhi 
-
-- Owen Brendsan Damanik : 
+  Tidak bisa ngepush karna kerja
+- 
+Brendsan Damanik : 
    Perubahan
 
 - Mery Sartika Simamora 
@@ -146,3 +148,14 @@ Daily  Scrum
 
 
 12/12/2019
+Tia Sarwoedhi : 
+ - Migrasi gulp to grunt
+ - Edit Template Layout
+Erwin Leo Sinaga : 
+ - 
+Owen Brendsan :
+ - Tambah spesifikas
+ - Video Install
+ 
+Merry Sartika :
+ - Deskripsi Final 
